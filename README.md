@@ -1,8 +1,8 @@
 # IP6 Mission Wetter
-Dieses Projekt wurde im Rahmen des Informatikstudiums von Hannah Kühne & Tabea Eggler im Auftrag vom Verkehrshaus Luzern im FS20 erstellt.
+Dieses Projekt wurde im Rahmen der Bachelor Thesis von Hannah Kühne & Tabea Eggler im Auftrag vom Verkehrshaus Luzern im FS20 erstellt.
 
-## Projekt einsehen
-http://86.119.41.172:5000/
+## Projekt Beschrieb
+https://www.fhnw.ch/plattformen/bachelor20/20FS_I4DS03/index.html
 
 ### lokale Nutzung:
 
